@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/geolocalization/geolocalization.egg-info/PKG-INFO
+../../build/geolocalization/geolocalization.egg-info/SOURCES.txt
+../../build/geolocalization/geolocalization.egg-info/dependency_links.txt
+../../build/geolocalization/geolocalization.egg-info/entry_points.txt
+../../build/geolocalization/geolocalization.egg-info/requires.txt
+../../build/geolocalization/geolocalization.egg-info/top_level.txt
+../../build/geolocalization/geolocalization.egg-info/zip-safe
+config/params.yaml
+geolocalization/__init__.py
+geolocalization/coordinate_transformer.py
+geolocalization/geolocalization.py
+geolocalization/yolo_detector.py
+launch/person_localization.launch.py
+resource/geolocalization

@@ -1,0 +1,2 @@
+[console_scripts]
+geolocalization = geolocalization.geolocalization:main
