@@ -1,0 +1,47 @@
+[0.661s] Invoking command in '/home/akshit/geo_ws/src/geolocalization': PYTHONPATH=/home/akshit/geo_ws/build/geolocalization/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/geolocalization build --build-base /home/akshit/geo_ws/build/geolocalization/build install --record /home/akshit/geo_ws/build/geolocalization/install.log --single-version-externally-managed install_data
+[0.811s] running egg_info
+[0.811s] creating ../../build/geolocalization/geolocalization.egg-info
+[0.812s] writing ../../build/geolocalization/geolocalization.egg-info/PKG-INFO
+[0.812s] writing dependency_links to ../../build/geolocalization/geolocalization.egg-info/dependency_links.txt
+[0.812s] writing entry points to ../../build/geolocalization/geolocalization.egg-info/entry_points.txt
+[0.812s] writing requirements to ../../build/geolocalization/geolocalization.egg-info/requires.txt
+[0.812s] writing top-level names to ../../build/geolocalization/geolocalization.egg-info/top_level.txt
+[0.812s] writing manifest file '../../build/geolocalization/geolocalization.egg-info/SOURCES.txt'
+[0.813s] reading manifest file '../../build/geolocalization/geolocalization.egg-info/SOURCES.txt'
+[0.813s] writing manifest file '../../build/geolocalization/geolocalization.egg-info/SOURCES.txt'
+[0.813s] running build
+[0.813s] running build_py
+[0.813s] creating /home/akshit/geo_ws/build/geolocalization/build
+[0.813s] creating /home/akshit/geo_ws/build/geolocalization/build/lib
+[0.814s] creating /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization
+[0.814s] copying geolocalization/yolo_detector.py -> /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization
+[0.814s] copying geolocalization/geolocalization.py -> /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization
+[0.814s] copying geolocalization/coordinate_transformer.py -> /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization
+[0.814s] copying geolocalization/__init__.py -> /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization
+[0.814s] running install
+[0.814s] running install_lib
+[0.814s] creating /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization
+[0.814s] copying /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization/yolo_detector.py -> /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization
+[0.814s] copying /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization/geolocalization.py -> /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization
+[0.814s] copying /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization/coordinate_transformer.py -> /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization
+[0.814s] copying /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization/__init__.py -> /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization
+[0.815s] byte-compiling /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization/yolo_detector.py to yolo_detector.cpython-310.pyc
+[0.815s] byte-compiling /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization/geolocalization.py to geolocalization.cpython-310.pyc
+[0.816s] byte-compiling /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization/coordinate_transformer.py to coordinate_transformer.cpython-310.pyc
+[0.817s] byte-compiling /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization/__init__.py to __init__.cpython-310.pyc
+[0.817s] running install_data
+[0.817s] creating /home/akshit/geo_ws/install/geolocalization/share/ament_index
+[0.817s] creating /home/akshit/geo_ws/install/geolocalization/share/ament_index/resource_index
+[0.817s] creating /home/akshit/geo_ws/install/geolocalization/share/ament_index/resource_index/packages
+[0.817s] copying resource/geolocalization -> /home/akshit/geo_ws/install/geolocalization/share/ament_index/resource_index/packages
+[0.817s] copying package.xml -> /home/akshit/geo_ws/install/geolocalization/share/geolocalization
+[0.817s] creating /home/akshit/geo_ws/install/geolocalization/share/geolocalization/launch
+[0.817s] copying launch/person_localization.launch.py -> /home/akshit/geo_ws/install/geolocalization/share/geolocalization/launch
+[0.817s] creating /home/akshit/geo_ws/install/geolocalization/share/geolocalization/config
+[0.817s] copying config/params.yaml -> /home/akshit/geo_ws/install/geolocalization/share/geolocalization/config
+[0.822s] running install_egg_info
+[0.823s] Copying ../../build/geolocalization/geolocalization.egg-info to /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization-0.0.1-py3.10.egg-info
+[0.823s] running install_scripts
+[0.837s] Installing geolocalization script to /home/akshit/geo_ws/install/geolocalization/lib/geolocalization
+[0.837s] writing list of installed files to '/home/akshit/geo_ws/build/geolocalization/install.log'
+[0.852s] Invoked command in '/home/akshit/geo_ws/src/geolocalization' returned '0': PYTHONPATH=/home/akshit/geo_ws/build/geolocalization/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/geolocalization build --build-base /home/akshit/geo_ws/build/geolocalization/build install --record /home/akshit/geo_ws/build/geolocalization/install.log --single-version-externally-managed install_data

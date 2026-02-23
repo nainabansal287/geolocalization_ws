@@ -1,0 +1,21 @@
+[0.547s] Invoking command in '/home/naina/Downloads/geo_ws/src/geolocal': PYTHONPATH=/home/naina/Downloads/geo_ws/build/geolocal/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/naina/Downloads/geo_ws/install/geolocal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/geolocal build --build-base /home/naina/Downloads/geo_ws/build/geolocal/build install --record /home/naina/Downloads/geo_ws/build/geolocal/install.log --single-version-externally-managed install_data
+[0.684s] running egg_info
+[0.692s] writing ../../build/geolocal/geolocal.egg-info/PKG-INFO
+[0.693s] writing dependency_links to ../../build/geolocal/geolocal.egg-info/dependency_links.txt
+[0.693s] writing entry points to ../../build/geolocal/geolocal.egg-info/entry_points.txt
+[0.693s] writing requirements to ../../build/geolocal/geolocal.egg-info/requires.txt
+[0.693s] writing top-level names to ../../build/geolocal/geolocal.egg-info/top_level.txt
+[0.709s] reading manifest file '../../build/geolocal/geolocal.egg-info/SOURCES.txt'
+[0.710s] writing manifest file '../../build/geolocal/geolocal.egg-info/SOURCES.txt'
+[0.710s] running build
+[0.710s] running build_py
+[0.710s] running install
+[0.713s] running install_lib
+[0.721s] running install_data
+[0.721s] running install_egg_info
+[0.731s] removing '/home/naina/Downloads/geo_ws/install/geolocal/lib/python3.10/site-packages/geolocal-0.0.0-py3.10.egg-info' (and everything under it)
+[0.732s] Copying ../../build/geolocal/geolocal.egg-info to /home/naina/Downloads/geo_ws/install/geolocal/lib/python3.10/site-packages/geolocal-0.0.0-py3.10.egg-info
+[0.732s] running install_scripts
+[0.749s] Installing geolocal script to /home/naina/Downloads/geo_ws/install/geolocal/lib/geolocal
+[0.749s] writing list of installed files to '/home/naina/Downloads/geo_ws/build/geolocal/install.log'
+[0.769s] Invoked command in '/home/naina/Downloads/geo_ws/src/geolocal' returned '0': PYTHONPATH=/home/naina/Downloads/geo_ws/build/geolocal/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/naina/Downloads/geo_ws/install/geolocal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/geolocal build --build-base /home/naina/Downloads/geo_ws/build/geolocal/build install --record /home/naina/Downloads/geo_ws/build/geolocal/install.log --single-version-externally-managed install_data

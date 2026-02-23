@@ -1,0 +1,45 @@
+running egg_info
+creating ../../build/geolocalization/geolocalization.egg-info
+writing ../../build/geolocalization/geolocalization.egg-info/PKG-INFO
+writing dependency_links to ../../build/geolocalization/geolocalization.egg-info/dependency_links.txt
+writing entry points to ../../build/geolocalization/geolocalization.egg-info/entry_points.txt
+writing requirements to ../../build/geolocalization/geolocalization.egg-info/requires.txt
+writing top-level names to ../../build/geolocalization/geolocalization.egg-info/top_level.txt
+writing manifest file '../../build/geolocalization/geolocalization.egg-info/SOURCES.txt'
+reading manifest file '../../build/geolocalization/geolocalization.egg-info/SOURCES.txt'
+writing manifest file '../../build/geolocalization/geolocalization.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/akshit/geo_ws/build/geolocalization/build
+creating /home/akshit/geo_ws/build/geolocalization/build/lib
+creating /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization
+copying geolocalization/yolo_detector.py -> /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization
+copying geolocalization/geolocalization.py -> /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization
+copying geolocalization/coordinate_transformer.py -> /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization
+copying geolocalization/__init__.py -> /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization
+running install
+running install_lib
+creating /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization
+copying /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization/yolo_detector.py -> /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization
+copying /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization/geolocalization.py -> /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization
+copying /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization/coordinate_transformer.py -> /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization
+copying /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization/__init__.py -> /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization
+byte-compiling /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization/yolo_detector.py to yolo_detector.cpython-310.pyc
+byte-compiling /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization/geolocalization.py to geolocalization.cpython-310.pyc
+byte-compiling /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization/coordinate_transformer.py to coordinate_transformer.cpython-310.pyc
+byte-compiling /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/akshit/geo_ws/install/geolocalization/share/ament_index
+creating /home/akshit/geo_ws/install/geolocalization/share/ament_index/resource_index
+creating /home/akshit/geo_ws/install/geolocalization/share/ament_index/resource_index/packages
+copying resource/geolocalization -> /home/akshit/geo_ws/install/geolocalization/share/ament_index/resource_index/packages
+copying package.xml -> /home/akshit/geo_ws/install/geolocalization/share/geolocalization
+creating /home/akshit/geo_ws/install/geolocalization/share/geolocalization/launch
+copying launch/person_localization.launch.py -> /home/akshit/geo_ws/install/geolocalization/share/geolocalization/launch
+creating /home/akshit/geo_ws/install/geolocalization/share/geolocalization/config
+copying config/params.yaml -> /home/akshit/geo_ws/install/geolocalization/share/geolocalization/config
+running install_egg_info
+Copying ../../build/geolocalization/geolocalization.egg-info to /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization-0.0.1-py3.10.egg-info
+running install_scripts
+Installing geolocalization script to /home/akshit/geo_ws/install/geolocalization/lib/geolocalization
+writing list of installed files to '/home/akshit/geo_ws/build/geolocalization/install.log'

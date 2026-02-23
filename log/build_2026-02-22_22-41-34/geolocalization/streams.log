@@ -1,0 +1,26 @@
+[0.537s] Invoking command in '/home/naina/Downloads/geo_ws/src/geolocalization': PYTHONPATH=/home/naina/Downloads/geo_ws/build/geolocalization/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/naina/Downloads/geo_ws/install/geolocalization/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/geolocalization build --build-base /home/naina/Downloads/geo_ws/build/geolocalization/build install --record /home/naina/Downloads/geo_ws/build/geolocalization/install.log --single-version-externally-managed install_data
+[0.632s] /home/naina/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[0.632s]   warnings.warn(msg)
+[0.681s] running egg_info
+[0.689s] writing ../../build/geolocalization/geolocalization.egg-info/PKG-INFO
+[0.690s] writing dependency_links to ../../build/geolocalization/geolocalization.egg-info/dependency_links.txt
+[0.690s] writing entry points to ../../build/geolocalization/geolocalization.egg-info/entry_points.txt
+[0.690s] writing requirements to ../../build/geolocalization/geolocalization.egg-info/requires.txt
+[0.690s] writing top-level names to ../../build/geolocalization/geolocalization.egg-info/top_level.txt
+[0.709s] reading manifest file '../../build/geolocalization/geolocalization.egg-info/SOURCES.txt'
+[0.710s] writing manifest file '../../build/geolocalization/geolocalization.egg-info/SOURCES.txt'
+[0.710s] running build
+[0.710s] running build_py
+[0.710s] copying geolocalization/geolocalization.py -> /home/naina/Downloads/geo_ws/build/geolocalization/build/lib/geolocalization
+[0.710s] running install
+[0.713s] running install_lib
+[0.721s] copying /home/naina/Downloads/geo_ws/build/geolocalization/build/lib/geolocalization/geolocalization.py -> /home/naina/Downloads/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization
+[0.721s] byte-compiling /home/naina/Downloads/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization/geolocalization.py to geolocalization.cpython-310.pyc
+[0.724s] running install_data
+[0.724s] running install_egg_info
+[0.733s] removing '/home/naina/Downloads/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization-0.0.1-py3.10.egg-info' (and everything under it)
+[0.733s] Copying ../../build/geolocalization/geolocalization.egg-info to /home/naina/Downloads/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization-0.0.1-py3.10.egg-info
+[0.734s] running install_scripts
+[0.752s] Installing geolocalization script to /home/naina/Downloads/geo_ws/install/geolocalization/lib/geolocalization
+[0.752s] writing list of installed files to '/home/naina/Downloads/geo_ws/build/geolocalization/install.log'
+[0.775s] Invoked command in '/home/naina/Downloads/geo_ws/src/geolocalization' returned '0': PYTHONPATH=/home/naina/Downloads/geo_ws/build/geolocalization/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/naina/Downloads/geo_ws/install/geolocalization/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/geolocalization build --build-base /home/naina/Downloads/geo_ws/build/geolocalization/build install --record /home/naina/Downloads/geo_ws/build/geolocalization/install.log --single-version-externally-managed install_data

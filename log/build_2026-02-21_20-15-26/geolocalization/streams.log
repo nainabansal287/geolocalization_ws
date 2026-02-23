@@ -1,0 +1,24 @@
+[0.581s] Invoking command in '/home/akshit/geo_ws/src/geolocalization': PYTHONPATH=/home/akshit/geo_ws/build/geolocalization/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/geolocalization build --build-base /home/akshit/geo_ws/build/geolocalization/build install --record /home/akshit/geo_ws/build/geolocalization/install.log --single-version-externally-managed install_data
+[0.747s] running egg_info
+[0.747s] writing ../../build/geolocalization/geolocalization.egg-info/PKG-INFO
+[0.747s] writing dependency_links to ../../build/geolocalization/geolocalization.egg-info/dependency_links.txt
+[0.747s] writing entry points to ../../build/geolocalization/geolocalization.egg-info/entry_points.txt
+[0.750s] writing requirements to ../../build/geolocalization/geolocalization.egg-info/requires.txt
+[0.750s] writing top-level names to ../../build/geolocalization/geolocalization.egg-info/top_level.txt
+[0.751s] reading manifest file '../../build/geolocalization/geolocalization.egg-info/SOURCES.txt'
+[0.752s] writing manifest file '../../build/geolocalization/geolocalization.egg-info/SOURCES.txt'
+[0.752s] running build
+[0.752s] running build_py
+[0.752s] copying geolocalization/geolocalization.py -> /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization
+[0.752s] running install
+[0.752s] running install_lib
+[0.753s] copying /home/akshit/geo_ws/build/geolocalization/build/lib/geolocalization/geolocalization.py -> /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization
+[0.753s] byte-compiling /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization/geolocalization.py to geolocalization.cpython-310.pyc
+[0.755s] running install_data
+[0.755s] running install_egg_info
+[0.756s] removing '/home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization-0.0.1-py3.10.egg-info' (and everything under it)
+[0.756s] Copying ../../build/geolocalization/geolocalization.egg-info to /home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages/geolocalization-0.0.1-py3.10.egg-info
+[0.757s] running install_scripts
+[0.771s] Installing geolocalization script to /home/akshit/geo_ws/install/geolocalization/lib/geolocalization
+[0.771s] writing list of installed files to '/home/akshit/geo_ws/build/geolocalization/install.log'
+[0.789s] Invoked command in '/home/akshit/geo_ws/src/geolocalization' returned '0': PYTHONPATH=/home/akshit/geo_ws/build/geolocalization/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akshit/geo_ws/install/geolocalization/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/geolocalization build --build-base /home/akshit/geo_ws/build/geolocalization/build install --record /home/akshit/geo_ws/build/geolocalization/install.log --single-version-externally-managed install_data
