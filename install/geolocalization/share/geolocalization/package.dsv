@@ -1,0 +1,6 @@
+source;share/geolocalization/hook/pythonpath.ps1
+source;share/geolocalization/hook/pythonpath.dsv
+source;share/geolocalization/hook/pythonpath.sh
+source;share/geolocalization/hook/ament_prefix_path.ps1
+source;share/geolocalization/hook/ament_prefix_path.dsv
+source;share/geolocalization/hook/ament_prefix_path.sh

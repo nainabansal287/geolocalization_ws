@@ -1,0 +1,10 @@
+# Configuration for Person Localization Node
+
+person_localization_node:
+  ros__parameters:
+    # YOLO model configuration
+    yolo_model: "yolov8n.pt"  # Options: yolov8n.pt, yolov8s.pt, yolov8m.pt, yolov8l.pt, yolov8x.pt
+    confidence_threshold: 0.5  # Minimum confidence for person detection (0.0 - 1.0)
+    
+    # Processing rate
+    publish_rate: 10.0  # Hz

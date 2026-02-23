@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: geolocalization
+Version: 0.0.1
+Summary: Person localization using YOLO and drone GPS
+Maintainer: user
+Maintainer-email: user@todo.com
+License: MIT
+Requires-Dist: setuptools
+Dynamic: license
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: requires-dist
+Dynamic: summary
